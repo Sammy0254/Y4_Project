@@ -48,7 +48,7 @@ Backend:
 PHP
 MySQL
 
-Usage
+### Usage ###
 Admin Panel
 Access the admin panel at http://localhost/RealEstate-PHP/admin.
 Use the credentials provided in the 01 LOGIN DETAILS & PROJECT INFO.txt file.
